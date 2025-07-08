@@ -14,6 +14,8 @@ https://github.com/abelfodil/knawledge
 
 https://github.com/NormTurtle/FMHYedit
 
+https://courage-1984.github.io/pixelated-pathways/
+
 ## Software
 
 https://github.com/YSGStudyHards/Awesome-Tools
