@@ -2,9 +2,9 @@
 
 ## generate readme.md list stars forks
 
-https://github.com/hantang/rime-list/blob/main/.github/workflows/process.yml generate markdown table
+https://github.com/hantang/rime-list/blob/main/.github/workflows/process.yml generate readme with markdown table from tsv file
 
-https://github.com/MohamedElashri/awesome-zotero/blob/main/.github/workflows/generate-readme.yml
+https://github.com/MohamedElashri/awesome-zotero/blob/main/.github/workflows/generate-readme.yml generate readme from md file
 ## General
 https://github.com/whoisdsmith/Knowledge-Marks
 
