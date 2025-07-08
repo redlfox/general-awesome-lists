@@ -3,6 +3,8 @@
 ## generate readme.md list stars forks
 
 https://github.com/hantang/rime-list/blob/main/.github/workflows/process.yml
+
+https://github.com/MohamedElashri/awesome-zotero/blob/main/.github/workflows/generate-readme.yml
 ## General
 https://github.com/whoisdsmith/Knowledge-Marks
 
