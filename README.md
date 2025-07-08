@@ -1,4 +1,9 @@
 # general-awesome-lists
+
+## generate readme.md list stars forks
+
+https://github.com/hantang/rime-list/blob/main/.github/workflows/process.yml
+## General
 https://github.com/whoisdsmith/Knowledge-Marks
 
 https://github.com/CaledoniaProject/awesome-opensource-security
